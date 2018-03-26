@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:  'Play', sans-serif, 'Arial';
+    background-color: grey;
+}
+
+header {
+    background-color: #8599D6;
+    box-shadow: 10px 10px 5px #12584C;
+    padding-top: 15px;
+    padding-left: 50px;
+    font-family: Arial;
+    text-shadow: 2px 2px;
+}
+.image {
+    width: 700px;
+}
+.image:hover {
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    width: 1000px;
+    -webkit-transition: all 1s ease-out;
+    .h3 {
+    font-family:Symusic}
+
+    /*padding-left: 250px;
+    padding: auto;
+   -webkit-transform: scale(1.5);
+
+}
+/*header {
+	background-image: url(header/black_background_.png);
+	height: 300px;
+	padding-top: 30px;
+	padding-left: 50px;
+}*/
+
